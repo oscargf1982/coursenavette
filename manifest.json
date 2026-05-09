@@ -1,0 +1,15 @@
+{
+  "name": "Course Navette APP by Oscargf",
+  "short_name": "Navette",
+  "description": "Test de Course Navette 20m para Educación Física",
+  "start_url": "/coursenavette/",
+  "scope": "/coursenavette/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F7F7F5",
+  "theme_color": "#E05A4E",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
